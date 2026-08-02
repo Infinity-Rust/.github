@@ -24,9 +24,9 @@
 
 ## 🚀 Sobre a Infinity Developers
 
-A **Infinity Developers** é uma empresa de engenharia de software especializada no desenvolvimento de soluções tecnológicas de alta performance para o jogo **Rust** e comunidades do **Discord**.
+A **Infinity Developers** é um time de engenharia de software especializada no desenvolvimento de soluções tecnológicas de alta performance para o jogo **Rust** e comunidades do **Discord**.
 
-Focamos na criação de **bots ultrarrápidos em Go (Golang)** consumindo a API nativa do Discord e **plugins otimizados em C#** para os frameworks Oxide e Carbon no jogo Rust.
+Focamos na criação de **bots ultrarrápidos em Go (Golang)** consumindo a API nativa do Discord e **plugins otimizados em C#** para o framework Oxide no jogo Rust.
 
 ---
 
@@ -36,7 +36,7 @@ Focamos na criação de **bots ultrarrápidos em Go (Golang)** consumindo a API 
   <tr>
     <td width="50%" align="center">
       <h3>🛠️ Plugins em C# para o Jogo Rust</h3>
-      <p>Desenvolvimento sob medida em <b>C#</b> para servidores de Rust (Oxide / Carbon). Otimização extrema de memória, sistemas de eventos avançados, economia, kits, lojas e interfaces personalizadas (CUI).</p>
+      <p>Desenvolvimento sob medida em <b>C#</b> para servidores de Rust (Oxide). Otimização extrema de memória, sistemas de eventos avançados, economia, kits, lojas e interfaces personalizadas (CUI).</p>
     </td>
     <td width="50%" align="center">
       <h3>🤖 Bots para Discord em Go (Golang)</h3>
@@ -53,8 +53,7 @@ Focamos na criação de **bots ultrarrápidos em Go (Golang)** consumindo a API 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go / Golang" />
   <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
-  <img src="https://img.shields.io/badge/Oxide_Framework-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Oxide Framework" />
-  <img src="https://img.shields.io/badge/Carbon_Framework-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Carbon Framework" />
+  <img src="https://img.shields.io/badge/Oxide_Framework-CE422B?style=for-the-badge&logo=facepunch&logoColor=white" alt="Oxide Framework" />
 </div>
 
 ---
