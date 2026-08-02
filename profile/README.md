@@ -61,7 +61,7 @@ Focamos na criação de **bots ultrarrápidos em Go (Golang)** consumindo a API 
 ## 💡 Por que Soluções em Go e C#?
 
 - ⚡ **Go (Golang)**: Permite a construção de bots para o Discord com baixíssimo consumo de memória, uso eficiente de concorrência (*goroutines*) e respostas praticamente instantâneas à API do Discord.
-- ⚙️ **C#**: A linguagem nativa do motor Unity e dos modloaders do jogo Rust (Oxide/Carbon), garantindo integração direta e sem overhead com as APIs do jogo.
+- ⚙️ **C#**: A linguagem nativa do motor Unity e do modloader do jogo Rust (Oxide), garantindo integração direta e sem overhead com as APIs do jogo.
 
 ---
 
@@ -83,7 +83,7 @@ Precisa de um **plugin exclusivo em C#**, um **bot customizado em Go** ou deseja
 ### About Infinity Developers
 **Infinity Developers** is a software engineering team specializing in high-performance solutions for the **Rust video game** and **Discord ecosystem**.
 
-- **Custom C# Plugins for Rust**: High-efficiency C# plugins built for Oxide and Carbon frameworks, with custom UI (CUI), event systems, and memory optimization.
+- **Custom C# Plugins for Rust**: High-efficiency C# plugins built for Oxide framework, with custom UI (CUI), event systems, and memory optimization.
 - **High-Performance Go Discord Bots**: Blazing fast, highly concurrent Discord bots written in **Go (Golang)** using the Discord API for community automation, ticket systems, and live game-to-Discord integrations.
 
 For custom plugin or bot development, join our [Discord Community](https://discord.gg/infinitydevelopers) or visit our [Official Website](https://infinitydevelopers.com.br/).
